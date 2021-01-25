@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     'job',
     'bootstrap4',
     'phone_field',
+    'django_filters',
 
 ]
 
