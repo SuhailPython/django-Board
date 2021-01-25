@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'bootstrap4',
     'phone_field',
     'django_filters',
+    'contact',
 
 ]
 
