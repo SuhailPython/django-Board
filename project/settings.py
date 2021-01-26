@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'phone_field',
     'django_filters',
     'contact',
+    'rest_framework',
 
 ]
 
